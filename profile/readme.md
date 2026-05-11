@@ -1,4 +1,4 @@
-[stuffiosa](./stuffiosa.png)
+![stuffiosa](./stuffiosa.png)
 
 # yo
 my stuffs are put here 
